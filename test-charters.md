@@ -1,6 +1,7 @@
 <!--.slide-->
 
-## Wander With A Purpose: Writing Charters for your Exploratory Testing Sessions
+## Wander With A Purpose
+### Writing Charters for your Exploratory Testing Sessions
 #### Elizabeth Zagroba
 
 ===

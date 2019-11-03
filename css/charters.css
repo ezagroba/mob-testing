@@ -1,0 +1,12 @@
+.footer-right {
+	position: fixed;
+    float: right;
+    width: 960px;
+    left: 50%;
+    top: 80%;
+    font-size:50%;
+}
+
+.fa-twitter {
+	color: #1DA1F2;
+}
