@@ -131,8 +131,8 @@ Write down any other charter ideas  you have.
 
 ### Resources
 
-- *Explore It!*  by Elisabeth Hendrickson
-- "The Chartersaurus"  by Aaron Hodder & Adam Howard
-- "CDMET mnemonic" by Marcel Gehlen
-- "Writing Exploratory Charters" by Chris Kenst
+- [*Explore It! Reduce Risk and Increase Confidence with Exploratory Testing* by Elisabeth Hendrickson](https://www.goodreads.com/book/show/15980494-explore-it)
+- [The Chartersaurus  by Aaron Hodder & Adam Howard](https://chartersaurus.blogspot.com/)
+- ["CDMET: a mnemonic for generating exploratory testing charters" by Marcel Gehlen](https://thatsthebuffettable.blogspot.com/2017/06/cdmet-mnemonic-for-generating.html)
+- ["Writing Exploratory Charters" by Chris Kenst](https://github.com/ckenst/testing-guides/blob/master/test%20design/writing_exploratory_charters.md)
 
