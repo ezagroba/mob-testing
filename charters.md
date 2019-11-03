@@ -13,11 +13,23 @@
 - Trying out a workshop for a testing conference
 - At the end: what you find valuable vs. don&#x27;t
 
+
 ===
 
-#### Here We Go
-Install the HereWeGo app on your phone, or go to:
-[https://wego.here.com/](https://wego.here.com/)
+### Photo exercise
+
+Get into pairs (or groups of three)  
+A couple minutes each
+
+- Sharer: Describe a recent photo on your phone 
+
+- Listener(s): Write down questions, ask the most important one
+
+
+===
+
+## Photo exercise 
+### debrief
 
 ===
 
@@ -27,21 +39,6 @@ Install the HereWeGo app on your phone, or go to:
 - Lost = wandering - purpose
 - If you don’t use what you find, don’t explore.
 
-===
-
-### Photo exercise
-
-Get into pairs (or groups of three)  
-2 minutes each
-
-- Sharer: Describe a recent photo on your phone 
-
-- Listener(s): Write down questions, ask the most important one
-
-===
-
-## Photo exercise 
-### debrief
 
 ===
 
@@ -69,10 +66,11 @@ Get into pairs (or groups of three)
 
 ===
 
-### Testing: Round 1
+### Testing: Here We Go
 [https://wego.here.com/](https://wego.here.com/)  
 
-Take enough notes to  remember what you saw
+Take enough notes to  remember what you saw.  
+We'll write charters next.
 
 ===
 
@@ -86,7 +84,13 @@ Spend a few minutes writing charters  by yourself.
 
 ===
 
-## Writing charters
+## Compare charters
+
+Differences between yours and your pair/group
+
+===
+
+## Charter writing
 ### debrief
 
 ===
@@ -96,7 +100,7 @@ Spend a few minutes writing charters  by yourself.
 
 ===
 
-### Testing: Round 2 
+### Testing: round 2 
 
 If you find something outside your current scope, write a new charter for later.
 
@@ -106,22 +110,27 @@ If you find something outside your current scope, write a new charter for later.
 
 ===
 
-## Testing: Round 2
+### Reflection
+
+- Did you stick to the mission?
+- Did you complete the charter?
+- What else do you want to test now?
+- What could you test given more tools, time, data, expertise, etc.?
+
+===
+
+## Testing: round 2
 ### debrief
 
 ===
 
-### Write some charters
+### Mindmap
 
-Write down any other charter ideas  you have.
-
-- *target*: where you’re exploring
-- *resources*: what you’re using/how you’re exploring
-- *information*: what you hope to find
+Let's discover what ideas we focused on.
 
 ===
 
-## Reflection
+## Retrospective
 
 ===
 
