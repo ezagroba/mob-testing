@@ -13,3 +13,27 @@
 img {
 	width: 80%;
 }
+
+.blue {
+	color: midnightblue;
+}
+
+.red {
+	color:maroon;
+}
+
+.green {
+	color:olivedrab;
+}
+
+.blue-underline {
+	border-bottom: 5px solid blue;
+}
+
+.red-underline {
+	border-bottom: 5px solid red;
+}
+
+.green-underline {
+	border-bottom: 5px solid green;
+}

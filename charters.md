@@ -20,11 +20,11 @@
 
 Get into pairs (or groups of three)  
 
-- Sharer: Spend a minute describing a recent photo on your phone 
+1. Sharer: Spend a minute describing a recent photo on your phone 
 
-- Listener(s): Write down specific questions, ask the most important one
+1. Listener(s): Write down specific questions; ask the most important one.
 
-- Sharer: Show the listener(s) the photo
+1. Sharer: Show the listener(s) the photo.
 
 Switch who's the sharer and who's the listener.
 
@@ -55,17 +55,27 @@ Switch who's the sharer and who's the listener.
 
 ### Charter template
 
-- *target*: where you’re exploring
-- *resources*: what you’re using/how you’re exploring
-- *information*: what you hope to find
+- <span class="blue">*target*</span>: where you’re exploring
+- <span class="green">*resources*</span>: what you’re using/how you’re exploring
+- <span class="red">*information*</span>: what question you want to answer
 
 ===
 
 ### Charter examples
 
-- Search through the log file in a text editor to see if there are any errors or warnings.
-- Upload different file types in the UI to see if the size and file type constraints in the error message are accurate.
-- Send non-required fields in the JSON body using the Python requests library to see if the API accepts them.
+<span class="blue">target</span> | <span class="green">resources</span> | <span class="red">information</span>  
+
+- <span class="green">Search through</span> <span class="blue">the log file</span> <span class="green">in a text editor</span> <span class="red">to see if there are any errors or warnings</span>.  
+
+- <span class="green">Upload different file types</span> <span class="blue">in the UI</span> <span class="red">to see if the size and file type constraints <span class="blue">in the error message</span> are accurate.</span>
+
+===
+
+### Charter examples
+
+<span class="blue-underline">target</span> | <span class="green-underline">resources</span> | <span class="red-underline">information</span>  
+
+- <span class="green-underline">Send non-required fields</span> <span class="blue-underline">in the JSON body</span> <span class="green-underline">using the Python requests library</span> <span class="red-underline">to see if the API accepts them</span>.
 
 ===
 
@@ -80,9 +90,9 @@ Take enough notes to remember what you saw so that we can write charters (and th
 
 Spend a few minutes writing charters  by yourself.  
 
-- *target*: where you’re exploring
-- *resources*: what you’re using/how you’re exploring
-- *information*: what you hope to find
+- <span class="blue">*target*</span>: where you’re exploring
+- <span class="green">*resources*</span>: what you’re using/how you’re exploring
+- <span class="red">*information*</span>: what question you want to answer
 
 ===
 
@@ -98,21 +108,22 @@ Differences between yours and your pair/group
 ===
 
 ## Exchange charters
-### Choose one to execute
+### Choose one for everyone at your table to execute
 
 ===
 
 ### Testing: round 2 
 
+Work with your pair/group.
 If you find something outside your current scope, write a new charter for later.
 
-- *target*: where you’re exploring
-- *resources*: what you’re using/how you’re exploring
-- *information*: what you hope to find
+- <span class="blue">*target*</span>: where you’re exploring
+- <span class="green">*resources*</span>: what you’re using/how you’re exploring
+- <span class="red">*information*</span>: what question you want to answer
 
 ===
 
-### Reflection
+### Reflect with your table
 
 - Did you stick to the mission?
 - Did you complete the charter?
@@ -122,13 +133,7 @@ If you find something outside your current scope, write a new charter for later.
 ===
 
 ## Testing: round 2
-### debrief
-
-===
-
-### Mindmap
-
-Let's discover what ideas we focused on.
+### debrief with everybody
 
 ===
 
