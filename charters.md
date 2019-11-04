@@ -19,11 +19,14 @@
 ### Photo exercise
 
 Get into pairs (or groups of three)  
-A couple minutes each
 
-- Sharer: Describe a recent photo on your phone 
+- Sharer: Spend a minute describing a recent photo on your phone 
 
-- Listener(s): Write down questions, ask the most important one
+- Listener(s): Write down specific questions, ask the most important one
+
+- Sharer: Show the listener(s) the photo
+
+Switch who's the sharer and who's the listener.
 
 
 ===
@@ -35,8 +38,8 @@ A couple minutes each
 
 ### What is exploring?
 
-- Exploring = wandering + purpose
-- Lost = wandering - purpose
+- Wandering + Purpose = Exploring
+- Wandering - Purpose = Lost
 - If you don’t use what you find, don’t explore.
 
 
@@ -66,11 +69,10 @@ A couple minutes each
 
 ===
 
-### Testing: Here We Go
+### Wandering: Here We Go
 [https://wego.here.com/](https://wego.here.com/)  
 
-Take enough notes to  remember what you saw.  
-We'll write charters next.
+Take enough notes to remember what you saw so that we can write charters (and then explore) later.
 
 ===
 
