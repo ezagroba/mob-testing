@@ -9,24 +9,17 @@
 
 ===
 
-### Why are we here?
-- Trying out a workshop for a testing conference
-- At the end: what you find valuable vs. don&#x27;t
-
-
-===
-
 ### Photo exercise
 
 Get into pairs (or groups of three)  
 
-1. Sharer: Spend a minute describing a recent photo on your phone 
+🗣️ Sharer: Spend a minute describing a recent photo on your phone 
 
-1. Listener(s): Write down specific questions; ask the most important one.
+✍️ Listener(s): Write down specific questions; ask the most important one.
 
-1. Sharer: Show the listener(s) the photo.
+📲 Sharer: Show the listener(s) the photo.
 
-Switch who's the sharer and who's the listener.
+🔄 Switch who's the sharer and who's the listener.
 
 
 ===
@@ -61,21 +54,37 @@ Switch who's the sharer and who's the listener.
 
 ===
 
-### Charter examples
+### Charter examples 
 
-<span class="blue">target</span> | <span class="green">resources</span> | <span class="red">information</span>  
+- Search through the log file in a text editor to see if there are any errors or warnings. 
 
-- <span class="green">Search through</span> <span class="blue">the log file</span> <span class="green">in a text editor</span> <span class="red">to see if there are any errors or warnings</span>.  
+- Upload different file types in the UI to see if the size and file type constraints in the error message are accurate.
 
-- <span class="green">Upload different file types</span> <span class="blue">in the UI</span> <span class="red">to see if the size and file type constraints <span class="blue">in the error message</span> are accurate.</span>
 
 ===
 
 ### Charter examples
 
-<span class="blue-underline">target</span> | <span class="green-underline">resources</span> | <span class="red-underline">information</span>  
+<span class="blue">target</span> | <span class="green">resources</span> | <span class="red">information</span>
 
-- <span class="green-underline">Send non-required fields</span> <span class="blue-underline">in the JSON body</span> <span class="green-underline">using the Python requests library</span> <span class="red-underline">to see if the API accepts them</span>.
+- <span class="green">Search through</span> <span class="blue">the log file</span> <span class="green">in a text editor</span> <span class="red">to see if there are any errors or warnings</span>.  
+
+- <span class="green">Upload different file types</span> <span class="blue">in the UI</span> <span class="red">to see if the size and file type constraints <span class="blue">in the error message</span> are accurate.</span>
+
+
+===
+
+### Charter examples 
+
+- Send non-required fields in the JSON body using the Python requests library to see if the API accepts them.
+
+===
+
+### Charter examples
+
+<span class="blue">target</span> | <span class="green">resources</span> | <span class="red">information</span>  
+
+- <span class="green">Send non-required fields</span> <span class="blue">in the JSON body</span> <span class="green">using the Python requests library</span> <span class="red">to see if the API accepts them</span>.
 
 ===
 
@@ -107,12 +116,21 @@ Differences between yours and your pair/group
 
 ===
 
+## Explore <span class="blue">target</span> with <span class="green">resources</span> to discover <span class="red">information</span>.
+
+- Explore the log file with a text editor to discover if there are any errors or warnings. 
+
+- Explore uploading different file types with the UI to discover if the error message is accurate.
+
+
+===
+
 ## Exchange charters
 ### Choose one for everyone at your table to execute
 
 ===
 
-### Testing: round 2 
+### Exploring 
 
 Work with your pair/group.
 If you find something outside your current scope, write a new charter for later.
@@ -132,7 +150,7 @@ If you find something outside your current scope, write a new charter for later.
 
 ===
 
-## Testing: round 2
+## Exploring
 ### debrief with everybody
 
 ===
