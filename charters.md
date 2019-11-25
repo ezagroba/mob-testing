@@ -165,6 +165,7 @@ If you find something outside your current scope, write a new charter for later.
 
 ### Resources
 
+- Mendix is hiring in The Netherlands!
 - [*Explore It! Reduce Risk and Increase Confidence with Exploratory Testing* by Elisabeth Hendrickson](https://www.goodreads.com/book/show/15980494-explore-it)
 - [The Chartersaurus  by Aaron Hodder & Adam Howard](https://chartersaurus.blogspot.com/)
 - ["CDMET: a mnemonic for generating exploratory testing charters" by Marcel Gehlen](https://thatsthebuffettable.blogspot.com/2017/06/cdmet-mnemonic-for-generating.html)
