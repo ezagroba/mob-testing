@@ -1,8 +1,8 @@
-<!-- .slide: class="title-slide" data-background-image="../mx-bgs/blue.jpg" -->
+<!-- .slide: class="title-slide" -->
 
-# Mob Testing on the Platform Teams
-#### Test Guild 27 June 2019
+# Mob Testing:<br/>Building Good Habits
 #### Joep Schuurkes & Elizabeth Zagroba
+#### 6 February 2020 European Testing Conference
 
 ===
 
@@ -32,13 +32,13 @@
 
 ### What is a mob?
 
-![mob picture](mob-pic.png "Mob!")<!-- .element: width="85%" -->
+![mob picture](images/mob-pic.png "Mob!")<!-- .element: width="85%" -->
 
 ===
 
 ### Why mob?
 
-![mob picture](best-of-all-of-us.png "Mob!")<!-- .element: width="90%" -->
+![mob picture](images/best-of-all-of-us.png "Mob!")<!-- .element: width="90%" -->
 
 ===
 
@@ -67,7 +67,7 @@
 ===
 
 ### The Trello board
-<a href="https://trello.com/b/NzZvsl41/mob-testing-session-ideas" target="_blank"><img src="trello-board.png" width="30%"/></a>
+<a href="https://trello.com/b/NzZvsl41/mob-testing-session-ideas" target="_blank"><img src="images/trello-board.png" width="20%"/></a>
 
 - sometimes tickets from the current sprint
 - most often weird adjacent non-blocking issues

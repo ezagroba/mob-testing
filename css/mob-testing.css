@@ -2,6 +2,10 @@ h1, h2, h3, h4, h5, p, a, li, ul {
 	text-align: left;
 }
 
+.reveal h1 {
+	font-size: 2.5em;
+}
+
 .footer-right {
 	position: fixed;
     width: 80%;
@@ -16,28 +20,4 @@ h1, h2, h3, h4, h5, p, a, li, ul {
 
 img {
 	width: 80%;
-}
-
-.blue {
-	color: midnightblue;
-}
-
-.red {
-	color:maroon;
-}
-
-.green {
-	color:olivedrab;
-}
-
-.blue-underline {
-	border-bottom: 5px solid blue;
-}
-
-.red-underline {
-	border-bottom: 5px solid red;
-}
-
-.green-underline {
-	border-bottom: 5px solid green;
 }
