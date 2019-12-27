@@ -8,7 +8,7 @@ h1, h2, h3, h4, h5, p, a, li, ul {
 
 .footer-right {
 	position: fixed;
-    width: 80%;
+    width: 75%;
     left: 50%;
     top: 95%;
     font-size:50%;
@@ -20,4 +20,8 @@ h1, h2, h3, h4, h5, p, a, li, ul {
 
 img {
 	width: 80%;
+}
+
+.caption {
+	font-size: 0.5em;
 }
