@@ -4,6 +4,47 @@
 #### Joep Schuurkes & Elizabeth Zagroba
 #### 6 February 2020 European Testing Conference
 
+Notes: 
+CONTEXT
+
+===
+
+<!-- .slide: class="section-title" -->
+## getting started
+
+===
+
+### the invite
+
+<< @joep: dig up what the outlook invite looked like >>
+
+Notes: 
+- people showed up, except Marijn
+- whoever shows up are the right people
+
+===
+
+### historical context
+
+Mobbing at Mendix was following a script in a meeting.
+- demonstration rather than exploration
+
+===
+
+### initial goals
+
+- more even distribution of testing expertise 
+- lowering the bus/conference factor
+- start from a shared baseline of knowledge
+- shape a sense of community and cooperation
+- work on something together
+- build knowledge about the products we support and the tools we use
+
+Notes: 
+- knowledge-sharing among participants
+- Woody found mobbing as a solution to these issues
+@ez maybe an image and fewer words?
+
 ===
 
 <!-- .slide: class="section-title" -->
@@ -20,7 +61,10 @@
 - bias to action
 - yes, and...
 
-Notes: @ez too many words on this slide => two slides, or pare it down and just say more?
+Notes: 
+- new mobs just end up talking
+- Woody's mob with different roles didn't insist on taking the keyboard
+@ez too many words on this slide => two slides, or pare it down and just say more?
 
 ===
 
@@ -32,9 +76,21 @@ Notes: @ez too many words on this slide => two slides, or pare it down and just 
 Notes: 
 - @ez Ask Maaret for permission to use this image
 - enabling constraints
-- facilitator in our mob
 - how tight/loose to stick to roles/rules
 - ability to step away
+
+===
+
+### participants & setup
+
+<< @ez Take picture at a mob session in Jan >>
+
+Notes:
+- Joep, facilitator in our mob
+- amplify but not take away their force
+- bullying for people who normally show up
+- describe personalities/skill levels
+- rotate mouse and keyboard
 
 ===
 
@@ -49,36 +105,10 @@ Notes:
 
 ===
 
-### participants
-
-<< Take picture at a mob session in Jan >>
-
-Notes:
-- optional meeting invite, bullying for people who normally show up
-- whoever shows up are the right people
-- describe personalities/skill levels
-
-===
-
-### initial goals
-
-- more even distribution of testing expertise 
-- lowering the bus/conference factor
-- start from a shared baseline of knowledge
-- shape a sense of community and cooperation
-- work on something together
-- build knowledge about the products we support and the tools we use
-
-Notes: 
-- knowledge-sharing among participants
-@ez maybe an image and fewer words?
-
-
-===
-
 ### numbers
 
 - 12 months
+- 11 Mendix products explored
 - 90-minute sessions every week
 - about 45 sessions 
 - 3 operating systems shared
@@ -105,9 +135,33 @@ Notes:
 
 ### learning > outcomes
 
+- provide a space where learning can happen, <br/>and it will
 - very few bugs found
 - very few notes taken
 - very small charter scope
+
+Notes: 
+- make it as easy as possible to be the best you can be
+
+===
+
+### sessions that didn't lead to learning
+
+- facilitate one session for another team
+- have new member join one of our sessions
+- stuck in a rabbit hole
+- yak-shaving setting up someone's machine
+
+===
+
+### tips to promote learning
+
+- have a charter specific enough to decide if you're deviating from it
+- stick with it, habits take longer to build
+
+Notes:
+- nobody thinks mobbing is useful after just one session
+- example of Data Hub instructions session
 
 ===
 
@@ -125,17 +179,6 @@ Notes:
 
 ===
 
-### tips (? or some other title)
-
-- have a charter specific enough to decide if you're deviating from it
-- stick with it, habits take longer to build
-- guarding against rabbit holes
-
-Notes:
-- nobody thinks mobbing is useful after just one session
-
-===
-
 <!-- .slide: class="section-title" -->
 ## habits
 
@@ -144,12 +187,12 @@ Notes:
 ### habits we built
 
 - hold on to strong-style communication outside the mob
+ - reach out to each other for help
 - troubleshooting around particular topics has improved
  - read the error message
 
 Notes:
 - catching yourself quickly when not acting in line with the habit
-
 - good energy during the sessions
 - more community feeling and collaborative problem-solving outside of the sessions
 
@@ -157,14 +200,38 @@ Notes:
 
 ### habits we're still building
 
-- taking notes [Dropbox folder](https://www.dropbox.com/home/Mobtesting)
+- taking notes ([Dropbox folder](https://www.dropbox.com/home/Mobtesting))
 - not making decisions as the driver
 - building on each other's ideas
 - move our communication to a higher level
  - share more intentions
 - whoever shows up are the right people
+
+Notes:
  - rarely got priority over release testing
  - little to no interest from other people in the unit
+ - when Llewellyn leaves, most of the teams don't continue mobbing
+
+===
+<!-- .slide: class="section-title" -->
+## recap
+
+===
+
+### recap 
+- whoever are there are the right people
+- this stuff is hard, stick with it
+- have a facilitator focused on the process
+- turn up the good in retros
+- learning _is_ the productivity, part of the job
+
+
+===
+
+<!-- .slide: class="section-title" -->
+## thanks.
+
+find us at the rest of the conference to ask questions and share thoughts.
 
 ===
 
@@ -177,8 +244,3 @@ Notes:
 - [GOTO 2017 • Mob Programming: A Whole Team Approach](https://www.youtube.com/watch?v=SHOVVnRB4h0) - Woody Zuill 
 
 ===
-
-<!-- .slide: class="section-title" -->
-## thanks.
-
-find us at the rest of the conference to ask questions and share thoughts.
