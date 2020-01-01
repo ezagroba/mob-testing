@@ -26,8 +26,11 @@ Notes:
 
 ### historical context
 
-Mobbing at Mendix was following a script in a meeting.
+Mobbing at Mendix was following a script during a meeting.
 - demonstration rather than exploration
+
+Notes:
+- next step after same people, time, place => computer
 
 ===
 
@@ -63,6 +66,7 @@ Notes:
 
 Notes: 
 - new mobs just end up talking
+- example of intention, location, implementation
 - Woody's mob with different roles didn't insist on taking the keyboard
 @ez too many words on this slide => two slides, or pare it down and just say more?
 
@@ -86,11 +90,17 @@ Notes:
 << @ez Take picture at a mob session in Jan >>
 
 Notes:
-- Joep, facilitator in our mob
-- amplify but not take away their force
+
 - bullying for people who normally show up
 - describe personalities/skill levels
 - rotate mouse and keyboard
+- mobbing with only juniors would not be as effective
+- puts communication problems under the microscope
+
+- Joep, facilitator in our mob
+- amplify but not take away their force
+- call out missed contributions
+- actively listening to what they mean vs. what they say
 
 ===
 
@@ -98,6 +108,7 @@ Notes:
 <a href="https://trello.com/b/NzZvsl41/mob-testing-session-ideas" target="_blank"><img src="images/Trello-board.png" width="20%"/></a>
 
 Notes:
+- sometimes test on prod
 - anyone can add, adder brings machine
 - mob chooses together which to pick up
 - sometimes tickets from the current sprint
@@ -112,6 +123,7 @@ Notes:
 - 90-minute sessions every week
 - about 45 sessions 
 - 3 operating systems shared
+- about a million times asked for a different level of abstraction
 
 Notes:
 - @ez Outlook fact-check needed on session and bug numbers, also can't figure out why the bullets are centered just on this slide
@@ -130,6 +142,8 @@ Notes:
 
 Notes: 
 @ez Ask Maaret for permission to use this image
+- mistakes get corrected in the moment
+- cost of delays in knowledge are usually hidden
 
 ===
 
@@ -142,6 +156,7 @@ Notes:
 
 Notes: 
 - make it as easy as possible to be the best you can be
+- generative != productive, how others do tasks
 
 ===
 
@@ -158,6 +173,7 @@ Notes:
 
 - have a charter specific enough to decide if you're deviating from it
 - stick with it, habits take longer to build
+- in doing the work, we discover what work we must do
 
 Notes:
 - nobody thinks mobbing is useful after just one session
@@ -208,6 +224,7 @@ Notes:
 - whoever shows up are the right people
 
 Notes:
+ - trying ideas instead of discussing them
  - rarely got priority over release testing
  - little to no interest from other people in the unit
  - when Llewellyn leaves, most of the teams don't continue mobbing
