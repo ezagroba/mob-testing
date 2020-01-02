@@ -1,7 +1,7 @@
 <!-- .slide: class="title-slide" -->
 
 # mob testing:<br/>building good habits
-#### Joep Schuurkes & Elizabeth Zagroba
+#### joep schuurkes & elizabeth zagroba
 #### 6 February 2020 European Testing Conference
 
 Notes: 
@@ -43,7 +43,9 @@ Notes:
 - work on something together
 - build knowledge about the products we support and the tools we use
 
-Notes: 
+Notes:
+- Joep's role/personality enabled this
+- arguments on slide were for Elizabeth's teammates 
 - knowledge-sharing among participants
 - Woody found mobbing as a solution to these issues
 @ez maybe an image and fewer words?
@@ -59,47 +61,40 @@ Notes:
 - ideas have to be put into words before they can be put into the computer
 - communicate at the highest level of abstraction: 
  - intention, location, implementation
-- four-minute rotations
 - kindness, consideration, and respect
-- bias to action
-- yes, and...
 
 Notes: 
-- new mobs just end up talking
 - example of intention, location, implementation
-- Woody's mob with different roles didn't insist on taking the keyboard
-@ez too many words on this slide => two slides, or pare it down and just say more?
-
-===
-
-### roles in a mob
-
-![mob picture](images/mob-pic.png "Mob!")<!-- .element: width="85%" -->
-<br/><a href="https://mobprogrammingguidebook.xyz/" class="caption">Used with permission (pending) from the Mob Programming Guidebook by Maaret Pyhäjärvi</a>
-
-Notes: 
-- @ez Ask Maaret for permission to use this image
-- enabling constraints
-- how tight/loose to stick to roles/rules
-- ability to step away
+- bias to action/yes, and...
 
 ===
 
 ### participants & setup
 
-<< @ez Take picture at a mob session in Jan >>
+<< Roles/tools in the mob @ez Take picture at a mob session in Jan >>
 
 Notes:
+- enabling constraints
+- rotate mouse and keyboard
+- four-minute rotations
+- describing roles: facilitator, driver, navigator, mobster
+- still mess up driver/navigator
+- this stuff is hard, stick with it
+- the rules are there to create an environment in which something awesome is likely to happen
 
 - bullying for people who normally show up
-- describe personalities/skill levels
-- rotate mouse and keyboard
-- mobbing with only juniors would not be as effective
-- puts communication problems under the microscope
 
+===
+
+### participants & setup
+
+<< Personalities in the mob @ez Take picture at a mob session in Jan >>
+
+Notes:
+- describe personalities/skill levels
 - Joep, facilitator in our mob
-- amplify but not take away their force
-- call out missed contributions
+ - amplify but not take away their force
+ - call out missed contributions
 - actively listening to what they mean vs. what they say
 
 ===
@@ -108,25 +103,36 @@ Notes:
 <a href="https://trello.com/b/NzZvsl41/mob-testing-session-ideas" target="_blank"><img src="images/Trello-board.png" width="20%"/></a>
 
 Notes:
-- sometimes test on prod
 - anyone can add, adder brings machine
 - mob chooses together which to pick up
 - sometimes tickets from the current sprint
-- most often weird adjacent non-blocking issues
+- diversity of stuff we pick up: testing, refactoring, architecture diagram, etc.
 
 ===
 
 ### numbers
 
-- 12 months
-- 11 Mendix products explored
+- 11 months
+- 12 Mendix products explored
+- many other things and stuff: Selenium, Locust, Pytest, Postman, Python
 - 90-minute sessions every week
-- about 45 sessions 
+- 5(?) bugs found
+- about 45 sessions
+- 1.6 lines of Python read per minute
+- 37 keyboard shortcuts memorized
 - 3 operating systems shared
 - about a million times asked for a different level of abstraction
 
 Notes:
-- @ez Outlook fact-check needed on session and bug numbers, also can't figure out why the bullets are centered just on this slide
+- @joep Outlook fact-check needed on session and bug numbers
+
+===
+
+### how to know mobbing is happening
+
+- simultaneous ooh-ing
+- not intervening as facilitator
+- start using it tomorrow
 
 ===
 
@@ -135,21 +141,8 @@ Notes:
 
 ===
 
-### simply the best
-
-![mob picture](images/best-of-all-of-us.png "Mob!")<!-- .element: width="90%" -->
-<br/><a href="https://mobprogrammingguidebook.xyz/" class="caption">Used with permission (pending) from the Mob Programming Guidebook by Maaret Pyhäjärvi</a>
-
-Notes: 
-@ez Ask Maaret for permission to use this image
-- mistakes get corrected in the moment
-- cost of delays in knowledge are usually hidden
-
-===
-
 ### learning > outcomes
 
-- provide a space where learning can happen, <br/>and it will
 - very few bugs found
 - very few notes taken
 - very small charter scope
@@ -157,6 +150,31 @@ Notes:
 Notes: 
 - make it as easy as possible to be the best you can be
 - generative != productive, how others do tasks
+- not being strict on the rules, because mobbing was happening (not chaos)
+
+===
+
+
+### retros
+
+<img src="images/retro.jpg" width="20%"/>
+- without retros, plateau after a few sessions
+- positive/reinforcing retros
+
+Notes:
+- should have done from the start
+- reinforcing retro goes back to:
+ - kindness, consideration, and respect
+ - bias to action
+ - yes, and...
+
+===
+
+### takeaways
+
+- intention, location, implementation
+- stuck in a rabbit hole
+- have a charter specific enough to give direction and a sense of accomplishment
 
 ===
 
@@ -164,34 +182,11 @@ Notes:
 
 - facilitate one session for another team
 - have new member join one of our sessions
-- stuck in a rabbit hole
 - yak-shaving setting up someone's machine
 
-===
-
-### tips to promote learning
-
-- have a charter specific enough to decide if you're deviating from it
-- stick with it, habits take longer to build
-- in doing the work, we discover what work we must do
-
 Notes:
-- nobody thinks mobbing is useful after just one session
-- example of Data Hub instructions session
 
-===
-
-### retros
-
-- without retros, plateau after a few sessions
-- positive/reinforcing retros
-
-
-Notes:
-- reinforcing retro goes back to:
- - kindness, consideration, and respect
- - bias to action
- - yes, and...
+maybe move stories to other slides if stories are not boring?
 
 ===
 
@@ -203,7 +198,9 @@ Notes:
 ### habits we built
 
 - hold on to strong-style communication outside the mob
- - reach out to each other for help
+ - still no mind-reading
+- reach out to each other for help
+ - sense of community and cooperation
 - troubleshooting around particular topics has improved
  - read the error message
 
@@ -227,7 +224,6 @@ Notes:
  - trying ideas instead of discussing them
  - rarely got priority over release testing
  - little to no interest from other people in the unit
- - when Llewellyn leaves, most of the teams don't continue mobbing
 
 ===
 <!-- .slide: class="section-title" -->
@@ -238,10 +234,20 @@ Notes:
 ### recap 
 - whoever are there are the right people
 - this stuff is hard, stick with it
-- have a facilitator focused on the process
-- turn up the good in retros
+- provide a space where learning can happen, and it will
+- have a facilitator just focused on the process
+- turn up the good in retros during the sessions
 - learning _is_ the productivity, part of the job
+- enabling people to do it themselves
 
+===
+
+## one piece of advice
+
+don't try this at ~~home~~ work
+
+Notes:
+warning: pairing with people who haven't learned this becomes highly frustrating
 
 ===
 
