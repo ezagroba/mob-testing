@@ -1,8 +1,11 @@
 <!-- .slide: class="title-slide" -->
 
+<img src="images/europeantestingconference.png" width="22%" style="border:0px;box-shadow:none"/>
+
 # mob testing:<br/>building good habits
 #### joep schuurkes & elizabeth zagroba
 #### 6 February 2020 European Testing Conference
+
 
 Notes: 
 CONTEXT
