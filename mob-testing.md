@@ -100,7 +100,7 @@ Notes:
 ===
 
 ### our Trello board
-<a href="https://trello.com/b/NzZvsl41/mob-testing-session-ideas" target="_blank"><img src="images/Trello-board.png" width="20%"/></a>
+<a href="https://trello.com/b/NzZvsl41/mob-testing-session-ideas" target="_blank"><img src="images/trello-board.png" width="20%"/></a>
 
 Notes:
 - anyone can add, adder brings machine
