@@ -1,6 +1,6 @@
 <!-- .slide: class="title-slide" -->
 
-<img src="images/europeantestingconference.png" width="22%" style="border:0px;box-shadow:none"/>
+<img src="images/europeantestingconference.png" width="22%" style="border:0px;box-shadow:none; margin-left:auto; margin-right:auto; display:block;"/>
 
 # mob testing:<br/>building good habits
 #### joep schuurkes & elizabeth zagroba
@@ -29,7 +29,9 @@ Notes:
 
 ### historical context
 
-Mobbing at Mendix was following a script during a meeting.
+Mobbing at Mendix was:
+
+- following a script during a meeting
 - demonstration rather than exploration
 
 Notes:
@@ -103,7 +105,7 @@ Notes:
 ===
 
 ### our Trello board
-<a href="https://trello.com/b/NzZvsl41/mob-testing-session-ideas" target="_blank"><img src="images/trello-board.png" width="20%"/></a>
+<a href="https://trello.com/b/NzZvsl41/mob-testing-session-ideas" target="_blank"><img src="images/trello-board.png" width="80%"/></a>
 
 Notes:
 - anyone can add, adder brings machine
@@ -160,7 +162,8 @@ Notes:
 
 ### retros
 
-<img src="images/retro.jpg" width="20%"/>
+<img src="images/retro.jpg" width="40%"/>
+
 - without retros, plateau after a few sessions
 - positive/reinforcing retros
 
@@ -268,5 +271,3 @@ find us at the rest of the conference to ask questions and share thoughts.
 - [Mob Programming, A Whole Team Approach](https://leanpub.com/mobprogramming) - Woody Zuill and Kevin Meadows
 - [Mob Programming Guidebook](https://mobprogrammingguidebook.xyz/) - Maaret Pyhäjärvi
 - [GOTO 2017 • Mob Programming: A Whole Team Approach](https://www.youtube.com/watch?v=SHOVVnRB4h0) - Woody Zuill 
-
-===
