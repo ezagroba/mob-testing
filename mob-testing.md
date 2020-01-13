@@ -1,8 +1,11 @@
 <!-- .slide: class="title-slide" -->
 
+<img src="images/europeantestingconference.png" width="22%" style="border:0px;box-shadow:none; margin-left:auto; margin-right:auto; display:block;"/>
+
 # mob testing:<br/>building good habits
 #### joep schuurkes & elizabeth zagroba
 #### 6 February 2020 European Testing Conference
+
 
 Notes: 
 CONTEXT
@@ -26,11 +29,27 @@ Notes:
 
 ### historical context
 
-Mobbing at Mendix was following a script during a meeting.
+Mobbing at Mendix was:
+
+- following a script during a meeting
 - demonstration rather than exploration
 
 Notes:
 - next step after same people, time, place => computer
+
+===
+
+### new context
+
+Mendix has had embedded testers for a long time, but:
+
+- most testers in the unit were new to the company
+	- limited product knowledge
+	- little historical knowledge
+	- more difficult tor each out to others
+- only a few testers with a lot of experience
+	- more difficult to fill the gaps
+
 
 ===
 
@@ -58,9 +77,9 @@ Notes:
 ===
 
 ### how we mob
-- ideas have to be put into words before they can be put into the computer
+- ideas have to be put into words<br/>before they can be put into the computer
 - communicate at the highest level of abstraction: 
- - intention, location, implementation
+ - intention, what to do, how to do it
 - kindness, consideration, and respect
 
 Notes: 
@@ -100,7 +119,7 @@ Notes:
 ===
 
 ### our Trello board
-<a href="https://trello.com/b/NzZvsl41/mob-testing-session-ideas" target="_blank"><img src="images/Trello-board.png" width="20%"/></a>
+<a href="https://trello.com/b/NzZvsl41/mob-testing-session-ideas" target="_blank"><img src="images/trello-board.png" width="80%"/></a>
 
 Notes:
 - anyone can add, adder brings machine
@@ -112,12 +131,11 @@ Notes:
 
 ### numbers
 
-- 11 months
+- about 45 sessions in 11 months
 - 12 Mendix products explored
 - many other things and stuff: Selenium, Locust, Pytest, Postman, Python
 - 90-minute sessions every week
 - 5(?) bugs found
-- about 45 sessions
 - 1.6 lines of Python read per minute
 - 37 keyboard shortcuts memorized
 - 3 operating systems shared
@@ -132,7 +150,7 @@ Notes:
 
 - simultaneous ooh-ing
 - not intervening as facilitator
-- start using it tomorrow
+- "I'll start using this tomorrow!"
 
 ===
 
@@ -154,12 +172,17 @@ Notes:
 
 ===
 
-
 ### retros
 
-<img src="images/retro.jpg" width="20%"/>
+<div style="display:flex; align-items:center">
+	<img src="images/retro.jpg" width="40%"/>
+	<div style="margin-left: 2rem">
+
 - without retros, plateau after a few sessions
 - positive/reinforcing retros
+
+	</div>
+</div>
 
 Notes:
 - should have done from the start
@@ -172,7 +195,7 @@ Notes:
 
 ### takeaways
 
-- intention, location, implementation
+- intention, what (location), how (implementation)
 - stuck in a rabbit hole
 - have a charter specific enough to give direction and a sense of accomplishment
 
@@ -234,7 +257,7 @@ Notes:
 ### recap 
 - whoever are there are the right people
 - this stuff is hard, stick with it
-- provide a space where learning can happen, and it will
+- provide a space where learning can happen,<br/>and it will
 - have a facilitator just focused on the process
 - turn up the good in retros during the sessions
 - learning _is_ the productivity, part of the job
@@ -265,5 +288,3 @@ find us at the rest of the conference to ask questions and share thoughts.
 - [Mob Programming, A Whole Team Approach](https://leanpub.com/mobprogramming) - Woody Zuill and Kevin Meadows
 - [Mob Programming Guidebook](https://mobprogrammingguidebook.xyz/) - Maaret Pyhäjärvi
 - [GOTO 2017 • Mob Programming: A Whole Team Approach](https://www.youtube.com/watch?v=SHOVVnRB4h0) - Woody Zuill 
-
-===
