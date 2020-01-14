@@ -6,6 +6,16 @@
 	font-size: 2.5em;
 }
 
+.reveal h2, .reveal h3 {
+	color: #78357b;
+	font-weight: 600;
+}
+
+.reveal section img {
+	border: 0px;
+	box-shadow: none; 
+}
+
 .footer-right {
 	text-align: center;
 	position: fixed;

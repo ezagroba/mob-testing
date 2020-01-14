@@ -1,77 +1,102 @@
 <!-- .slide: class="title-slide" -->
 
-<img src="images/europeantestingconference.png" width="22%" style="border:0px;box-shadow:none; margin-left:auto; margin-right:auto; display:block;"/>
+<img src="images/europeantestingconference.png" width="22%" style="margin-left:auto; margin-right:auto; display:block;"/>
 
 # mob testing:<br/>building good habits
 #### joep schuurkes & elizabeth zagroba
 #### 6 February 2020 European Testing Conference
 
-
-Notes: 
-CONTEXT
+Notes:
+- Elizabeth and Joep
 
 ===
 
-<!-- .slide: class="section-title" -->
+### agenda
+- how we got started
+- how we mob
+- results
+- lessons learned
+- habits we built (or are still)
+
+Notes: 
+- Elizabeth
+
+===
+
 ## getting started
+
+Notes:
+- Joep
 
 ===
 
 ### the invite
 
-<< @joep: dig up what the outlook invite looked like >>
+<img src="images/invite.png" width="80%"/>
 
-Notes: 
+Notes:
+- Joep
 - people showed up, except Marijn
 - whoever shows up are the right people
+- next session was 90 instead of 60 minutes
 
 ===
 
 ### historical context
 
-Mobbing at Mendix was:
+mobbing at Mendix was:
 
-- following a script during a meeting
+- 7 minute rounds of dictatorship
 - demonstration rather than exploration
 
+todo: @jsc picture of old office
+
 Notes:
-- next step after same people, time, place => computer
+- Joep
+- following a script during a meeting
 
 ===
 
 ### new context
 
-Mendix has had embedded testers for a long time, but:
+We've had testers on the teams for a long time, but:
 
-- most testers in the unit were new to the company
+- most of these testers were new to the company
+- only a few of them had a lot of experience
+
+todo: @ez picture of new office
+
+Notes:
+- Joep
+- new to company
 	- limited product knowledge
 	- little historical knowledge
-	- more difficult tor each out to others
-- only a few testers with a lot of experience
+	- more difficult to reach out to others
+- experience
 	- more difficult to fill the gaps
-
 
 ===
 
 ### initial goals
 
-- more even distribution of testing expertise 
-- lowering the bus/conference factor
-- start from a shared baseline of knowledge
-- shape a sense of community and cooperation
-- work on something together
-- build knowledge about the products we support and the tools we use
+- share knowledge about the products we support
+- share testing skills and tools we use
+- build a sense of community and collaboration
 
 Notes:
-- Joep's role/personality enabled this
-- arguments on slide were for Elizabeth's teammates 
-- knowledge-sharing among participants
-- Woody found mobbing as a solution to these issues
-@ez maybe an image and fewer words?
+- Joep
+- this aligns with Woody's experiences
+- start from a shared baseline of knowledge
+- lowering the bus/conference factor
+- shape a sense of community and collaboration
+- work on something together
+- build knowledge about the products we support and the tools we use
+- ez: Joep's role/personality enabled this
+- ez: arguments on slide were for Elizabeth's teammates
+- ez: we did not mob at my previous job
 
 ===
 
-<!-- .slide: class="section-title" -->
 ## how we mob
 
 ===
@@ -79,10 +104,13 @@ Notes:
 ### how we mob
 - ideas have to be put into words<br/>before they can be put into the computer
 - communicate at the highest level of abstraction: 
- - intention, what to do, how to do it
+ - intent, what to do, how to do it
 - kindness, consideration, and respect
 
-Notes: 
+todo: @ez example of intent/what/how
+
+Notes:
+- Elizabeth
 - example of intention, location, implementation
 - bias to action/yes, and...
 
@@ -90,31 +118,29 @@ Notes:
 
 ### participants & setup
 
-<< Roles/tools in the mob @ez Take picture at a mob session in Jan >>
+<< Roles/tools in the mob @ez Take a picture at a mob session in Jan >>
 
 Notes:
-- enabling constraints
+- Elizabeth
 - rotate mouse and keyboard
 - four-minute rotations
 - describing roles: facilitator, driver, navigator, mobster
 - still mess up driver/navigator
+- enabling constraints
 - this stuff is hard, stick with it
 - the rules are there to create an environment in which something awesome is likely to happen
-
-- bullying for people who normally show up
 
 ===
 
 ### participants & setup
 
-<< Personalities in the mob @ez Take picture at a mob session in Jan >>
+<< Personalities in the mob @ez Take different picture at a mob session in Jan >>
 
 Notes:
+- Elizabeth
+- bullying for people who normally show up
 - describe personalities/skill levels
 - Joep, facilitator in our mob
- - amplify but not take away their force
- - call out missed contributions
-- actively listening to what they mean vs. what they say
 
 ===
 
@@ -122,53 +148,63 @@ Notes:
 <a href="https://trello.com/b/NzZvsl41/mob-testing-session-ideas" target="_blank"><img src="images/trello-board.png" width="80%"/></a>
 
 Notes:
+- Elizabeth
 - anyone can add, adder brings machine
 - mob chooses together which to pick up
-- sometimes tickets from the current sprint
 - diversity of stuff we pick up: testing, refactoring, architecture diagram, etc.
+- Selenium, Locust, Pytest, Postman, Python
+
+===
+
+## results
 
 ===
 
 ### numbers
 
-- about 45 sessions in 11 months
-- 12 Mendix products explored
-- many other things and stuff: Selenium, Locust, Pytest, Postman, Python
-- 90-minute sessions every week
+- 45 sessions in 11 months
+- 90-minutes per session
+- 12 Mendix products explored (and other stuff!)
 - 5(?) bugs found
 - 1.6 lines of Python read per minute
 - 37 keyboard shortcuts memorized
 - 3 operating systems shared
-- about a million times asked for a different level of abstraction
+- a million times asked for a different level of abstraction
 
 Notes:
-- @joep Outlook fact-check needed on session and bug numbers
+- Joep
+- level of abstraction: intent / what / how
 
 ===
 
-### how to know mobbing is happening
+### mobbing happened!
 
 - simultaneous ooh-ing
-- not intervening as facilitator
+- when it's not chaos but a mob
 - "I'll start using this tomorrow!"
+- good energy during the sessions
+
+todo: @jsc more examples
+
+Notes:
+- Joep
+- not being strict on the rules, because mobbing was happening (not chaos)
 
 ===
 
-<!-- .slide: class="section-title" -->
-## lessons we learned
+## lessons learned
 
 ===
 
-### learning > outcomes
+<h3 style="color:#43776d">learning >> results</h3>
 
+
+Notes:
+- Joep
+- spending 90 minutes where everyone learns is more valuable than 90 minutes of getting stuff done
 - very few bugs found
 - very few notes taken
 - very small charter scope
-
-Notes: 
-- make it as easy as possible to be the best you can be
-- generative != productive, how others do tasks
-- not being strict on the rules, because mobbing was happening (not chaos)
 
 ===
 
@@ -176,115 +212,87 @@ Notes:
 
 <div style="display:flex; align-items:center">
 	<img src="images/retro.jpg" width="40%"/>
-	<div style="margin-left: 2rem">
-
-- without retros, plateau after a few sessions
-- positive/reinforcing retros
-
-	</div>
+	<img src="images/retro-20200107.jpg" width="50%" style="margin-left:3em" />
 </div>
 
 Notes:
+- Joep
 - should have done from the start
-- reinforcing retro goes back to:
- - kindness, consideration, and respect
- - bias to action
- - yes, and...
+- without retros, plateau after a few sessions
+- retro after 40 minutes (because weekly)
+- retro to turn up the good (versus focus on things that need to improve)
+- warn for rabbit holes
+- intent, what to do, how to do it
+- also a habit: have a charter specific enough to give direction and a sense of accomplishment
 
 ===
 
-### takeaways
-
-- intention, what (location), how (implementation)
-- stuck in a rabbit hole
-- have a charter specific enough to give direction and a sense of accomplishment
-
-===
-
-### sessions that didn't lead to learning
-
-- facilitate one session for another team
-- have new member join one of our sessions
-- yak-shaving setting up someone's machine
-
-Notes:
-
-maybe move stories to other slides if stories are not boring?
-
-===
-
-<!-- .slide: class="section-title" -->
 ## habits
 
 ===
 
 ### habits we built
 
-- hold on to strong-style communication outside the mob
- - still no mind-reading
+- strong-style communication outside the mob
 - reach out to each other for help
- - sense of community and cooperation
-- troubleshooting around particular topics has improved
- - read the error message
+- knowing how to troubleshoot your product
+
+todo @ez: add picture
 
 Notes:
+- Elizabeth
+- still no mind-reading :-(
+- actively listening to what they mean vs. what they say vs. what you thought they mean
 - catching yourself quickly when not acting in line with the habit
-- good energy during the sessions
 - more community feeling and collaborative problem-solving outside of the sessions
+- read the error message
 
 ===
 
 ### habits we're still building
 
-- taking notes ([Dropbox folder](https://www.dropbox.com/home/Mobtesting))
 - not making decisions as the driver
 - building on each other's ideas
-- move our communication to a higher level
- - share more intentions
+- learn when to move up in abstraction level (intent)
 - whoever shows up are the right people
+- have a specific-enough charter
 
 Notes:
- - trying ideas instead of discussing them
- - rarely got priority over release testing
- - little to no interest from other people in the unit
-
-===
-<!-- .slide: class="section-title" -->
-## recap
-
-===
-
-### recap 
-- whoever are there are the right people
-- this stuff is hard, stick with it
-- provide a space where learning can happen,<br/>and it will
-- have a facilitator just focused on the process
-- turn up the good in retros during the sessions
-- learning _is_ the productivity, part of the job
-- enabling people to do it themselves
-
-===
-
-## one piece of advice
-
-don't try this at ~~home~~ work
-
-Notes:
-warning: pairing with people who haven't learned this becomes highly frustrating
-
-===
-
-<!-- .slide: class="section-title" -->
-## thanks.
-
-find us at the rest of the conference to ask questions and share thoughts.
+- Elizabeth
+- trying ideas instead of discussing them
+- charter: to give direction and a sense of accomplishment
+- rarely got priority over release testing
+- little to no interest from other people in the unit
+- taking notes
 
 ===
 
 ### want to start mobbing?
+- [Mob Testing: An Introduction & Experience Report ](https://dojo.ministryoftesting.com/dojo/lessons/mob-testing-an-introduction-experience-report)<br/>Maaret Pyhäjärvi
+- [Mob Programming, A Whole Team Approach](https://leanpub.com/mobprogramming)<br/>Woody Zuill and Kevin Meadows
+- [Mob Programming Guidebook](https://mobprogrammingguidebook.xyz/)<br/>Maaret Pyhäjärvi
+
+Notes:
+- Elizabeth
+- this stuff is hard, stick with it
+- have a facilitator just focused on the process
+- learning _is_ the productivity, part of the job
+
+===
+
+### one piece of advice
+
+don't try this at ~~home~~ work
+
+Notes:
+- Joep
+- warning: pairing with people who haven't learned this becomes highly frustrating
+
+===
+
+## thanks.
+
+Notes:
+- Joep and Elizabeth
+- find us at the rest of the conference to ask questions and share thoughts.
 - invite us to facilitate a session
-- [Mob Testing: An Introduction & Experience Report ](https://dojo.ministryoftesting.com/dojo/lessons/mob-testing-an-introduction-experience-report) - Maaret Pyhäjärvi
-- [Lessons learned from a year of mobbing](https://www.slideshare.net/maaretp/mob-testing) - Maaret Pyhäjärvi
-- [Mob Programming, A Whole Team Approach](https://leanpub.com/mobprogramming) - Woody Zuill and Kevin Meadows
-- [Mob Programming Guidebook](https://mobprogrammingguidebook.xyz/) - Maaret Pyhäjärvi
-- [GOTO 2017 • Mob Programming: A Whole Team Approach](https://www.youtube.com/watch?v=SHOVVnRB4h0) - Woody Zuill 
