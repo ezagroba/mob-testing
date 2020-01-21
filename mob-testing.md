@@ -99,6 +99,9 @@ Notes:
 
 ## how we mob
 
+Notes:
+- Elizabeth
+
 ===
 
 ### how we mob
@@ -161,6 +164,8 @@ Notes:
 ===
 
 ## results
+Notes:
+- Joep
 
 ===
 
@@ -178,6 +183,7 @@ Notes:
 Notes:
 - Joep
 - level of abstraction: intent / what / how
+- 2 second rule
 
 ===
 
@@ -186,17 +192,22 @@ Notes:
 - simultaneous ooh-ing
 - when it's not chaos but a mob
 - "I'll start using this tomorrow!"
-- good energy during the sessions
-
-todo: @jsc more examples
+- applause for yourself
+- skeptical and yolo
+- "we can do that"
 
 Notes:
 - Joep
 - not being strict on the rules, because mobbing was happening (not chaos)
+- good energy during the sessions / applause at the end of the session 21 Jan 2020
+
 
 ===
 
 ## lessons learned
+
+Notes:
+- Joep
 
 ===
 
@@ -232,6 +243,9 @@ Notes:
 ===
 
 ## habits
+
+Notes:
+- Elizabeth
 
 ===
 
