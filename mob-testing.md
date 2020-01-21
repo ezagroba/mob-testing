@@ -118,7 +118,9 @@ Notes:
 
 ### participants & setup
 
-<< Roles/tools in the mob @ez Take a picture at a mob session in Jan >>
+<div style="display:flex; justify-content:center">
+	<img src="images/back_02_20200121_151638.jpg" width="70%"/>
+</div>
 
 Notes:
 - Elizabeth
@@ -134,7 +136,9 @@ Notes:
 
 ### participants & setup
 
-<< Personalities in the mob @ez Take different picture at a mob session in Jan >>
+<div style="display:flex; justify-content:center">
+	<img src="images/front_01_20200121_151657.jpg" width="70%"/>
+</div>
 
 Notes:
 - Elizabeth
