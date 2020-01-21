@@ -193,7 +193,7 @@ Notes:
 - when it's not chaos but a mob
 - "I'll start using this tomorrow!"
 - applause for yourself
-- skeptical and yolo
+- skeptical but yolo!
 - "we can do that"
 
 Notes:
@@ -220,6 +220,8 @@ Notes:
 - very few bugs found
 - very few notes taken
 - very small charter scope
+- different from mobbing all the time
+- first sessions had really poor testing
 
 ===
 
