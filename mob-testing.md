@@ -176,14 +176,14 @@ Notes:
 
 ### numbers
 
-- 45 sessions in 11 months
-- 90-minutes per session
-- 12 Mendix products explored (and other stuff!)
-- 5(?) bugs found
-- 1.6 lines of Python read per minute
-- 37 keyboard shortcuts memorized
-- 3 operating systems shared
-- a million times asked for a different level of abstraction
+- 45 sessions in 11 months <!-- .element: class="fragment" -->
+- 90-minutes per session <!-- .element: class="fragment" -->
+- 12 Mendix products explored (and other stuff!) <!-- .element: class="fragment" -->
+- 5(?) bugs found <!-- .element: class="fragment" -->
+- 1.6 lines of Python read per minute <!-- .element: class="fragment" -->
+- 37 keyboard shortcuts memorized <!-- .element: class="fragment" -->
+- 3 operating systems shared <!-- .element: class="fragment" -->
+- a million times asked for a different level of abstraction <!-- .element: class="fragment" -->
 
 Notes:
 - Joep
@@ -194,12 +194,11 @@ Notes:
 
 ### mobbing happened!
 
-- simultaneous ooh-ing
-- when it's not chaos but a mob
-- "I'll start using this tomorrow!"
-- applause for yourself
-- skeptical but yolo!
-- "we can do that"
+- simultaneous ooh-ing <!-- .element: class="fragment" -->
+- when it's not chaos but a mob <!-- .element: class="fragment" -->
+- "I'll start using this tomorrow!" <!-- .element: class="fragment" -->
+- applause for yourself <!-- .element: class="fragment" -->
+- skeptical but yolo! <!-- .element: class="fragment" -->
 
 Notes:
 - Joep
