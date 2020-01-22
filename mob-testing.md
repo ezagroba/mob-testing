@@ -197,8 +197,8 @@ Notes:
 - simultaneous ooh-ing <!-- .element: class="fragment" -->
 - when it's not chaos but a mob <!-- .element: class="fragment" -->
 - "I'll start using this tomorrow!" <!-- .element: class="fragment" -->
-- applause for yourself <!-- .element: class="fragment" -->
 - skeptical but yolo! <!-- .element: class="fragment" -->
+- applause for yourself <!-- .element: class="fragment" -->
 
 Notes:
 - Joep
