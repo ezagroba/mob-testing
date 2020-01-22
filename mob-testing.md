@@ -44,12 +44,16 @@ Notes:
 
 ### historical context
 
+<div style="display:flex; justify-content:space-between; align-items:center">
+<div>
 mobbing at Mendix was:
 
 - 7 minute rounds of dictatorship
 - demonstration rather than exploration
 
-todo: @jsc picture of old office
+</div>
+<img src="images/old-office.jpg" width="50%"/>
+</div>
 
 Notes:
 - Joep
