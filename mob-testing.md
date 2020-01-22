@@ -59,12 +59,13 @@ Notes:
 
 ### new context
 
+<img src="images/de_rotterdam.jpg" style="float:right" width="30%"/>
+
 We've had testers on the teams for a long time, but:
 
-- most of these testers were new to the company
-- only a few of them had a lot of experience
+- most of these testers were new <br/>to the company
+- only a few of them had a lot of <br/>experience
 
-todo: @ez picture of new office
 
 Notes:
 - Joep
@@ -110,11 +111,11 @@ Notes:
  - intent, what to do, how to do it
 - kindness, consideration, and respect
 
-todo: @ez example of intent/what/how
-
 Notes:
 - Elizabeth
-- example of intention, location, implementation
+- intent: add a card for this to the Trello board
+- what to do: say something about how we're going to work on Locust today
+- how to do it: click on the Add Card at the bottom of the second column. type "Add Locust test for the App Store"
 - bias to action/yes, and...
 
 ===
@@ -211,7 +212,7 @@ Notes:
 
 ===
 
-<h3 style="color:#43776d">learning >> results</h3>
+<h3 style="color:#2a8c0e">learning >> results</h3>
 
 
 Notes:
@@ -256,8 +257,7 @@ Notes:
 - strong-style communication outside the mob
 - reach out to each other for help
 - knowing how to troubleshoot your product
-
-todo @ez: add picture
+<br/><img src="images/muscle-emoji.png" />
 
 Notes:
 - Elizabeth
