@@ -39,6 +39,7 @@ Notes:
 - people showed up, except Marijn
 - whoever shows up are the right people
 - next session was 90 instead of 60 minutes
+- mobbing is everyone working on the same computer, turning up the good of pairing
 
 ===
 
@@ -177,7 +178,6 @@ Notes:
 ### numbers
 
 - 45 sessions in 11 months <!-- .element: class="fragment" -->
-- 90-minutes per session <!-- .element: class="fragment" -->
 - 12 Mendix products explored (and other stuff!) <!-- .element: class="fragment" -->
 - 5(?) bugs found <!-- .element: class="fragment" -->
 - 1.6 lines of Python read per minute <!-- .element: class="fragment" -->
