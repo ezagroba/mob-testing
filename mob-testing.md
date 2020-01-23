@@ -32,7 +32,7 @@ Notes:
 
 ### the invite
 
-<img src="images/invite.png" width="80%"/>
+<img src="images/invite-edit.png" width="60%"/>
 
 Notes:
 - Joep
