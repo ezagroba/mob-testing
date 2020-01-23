@@ -257,10 +257,17 @@ Notes:
 
 ### habits we built
 
+
+<div style="display:flex; justify-content:space-between; align-items:center">
+<div>
+
 - strong-style communication outside the mob
 - reach out to each other for help
 - knowing how to troubleshoot your product
-<br/><img src="images/muscle-emoji.png" />
+</div>
+
+<img style="float:right" src="images/trees.jpg" width="50%" />
+<div>
 
 Notes:
 - Elizabeth
