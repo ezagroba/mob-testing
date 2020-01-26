@@ -97,9 +97,21 @@ Notes:
 - shape a sense of community and collaboration
 - work on something together
 - build knowledge about the products we support and the tools we use
-- ez: Joep's role/personality enabled this
-- ez: arguments on slide were for Elizabeth's teammates
-- ez: we did not mob at my previous job
+
+
+===
+
+### initial goals
+
+- share knowledge about the products we support
+- share testing skills and tools we use
+- build a sense of community and collaboration
+
+Notes:
+- Elizabeth
+- Joep's role/personality enabled this
+- arguments on slide were for Elizabeth's teammates
+- we did not mob at my previous job
 
 ===
 
@@ -215,14 +227,13 @@ Notes:
 
 ===
 
-<h3 style="color:#2a8c0e">learning >> results</h3>
+<h3 style="color:#23770b">learning >> results</h3>
 
 
 Notes:
 - Joep
 - spending 90 minutes where everyone learns is more valuable than 90 minutes of getting stuff done
-- very few bugs found
-- very few notes taken
+- very few bugs found, very few notes taken
 - very small charter scope
 - different from mobbing all the time
 - first sessions had really poor testing
@@ -266,7 +277,7 @@ Notes:
 - knowing how to troubleshoot your product
 </div>
 
-<img style="float:right" src="images/trees.jpg" width="50%" />
+<img style="float:right; padding-left:10%" src="images/cheerleaders.jpg" width="40%" />
 <div>
 
 Notes:
