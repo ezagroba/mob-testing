@@ -7,7 +7,9 @@
 #### 6 February 2020 European Testing Conference
 
 Notes:
-- Elizabeth and Joep
+- Elizabeth
+- experience report of how mobbing worked for us
+- pieces to takeaway and try
 
 ===
 
@@ -15,7 +17,6 @@ Notes:
 - how we got started
 - how we mob
 - results
-- lessons learned
 - habits we built (or are still)
 
 Notes: 
@@ -43,26 +44,7 @@ Notes:
 
 ===
 
-### historical context
-
-<div style="display:flex; justify-content:space-between; align-items:center">
-<div>
-mobbing at Mendix was:
-
-- 7 minute rounds of dictatorship
-- demonstration rather than exploration
-
-</div>
-<img src="images/old-office.jpg" width="50%"/>
-</div>
-
-Notes:
-- Joep
-- following a script during a meeting
-
-===
-
-### new context
+### our context
 
 <img src="images/de_rotterdam.jpg" style="float:right" width="30%"/>
 
@@ -82,6 +64,7 @@ Notes:
 	- more difficult to fill the gaps
 
 ===
+<!-- .slide: data-transition="slide-in none" -->
 
 ### initial goals
 
@@ -100,7 +83,7 @@ Notes:
 
 
 ===
-
+<!-- .slide: data-transition="none" -->
 ### initial goals
 
 - share knowledge about the products we support
@@ -110,6 +93,7 @@ Notes:
 Notes:
 - Elizabeth
 - Joep's role/personality enabled this
+- prepare for Joep winning the lottery
 - arguments on slide were for Elizabeth's teammates
 - we did not mob at my previous job
 
@@ -139,15 +123,15 @@ Notes:
 
 ### participants & setup
 
-<div style="display:flex; justify-content:center">
-	<img src="images/back_02_20200121_151638.jpg" width="70%"/>
-</div>
+<img src="images/back_02_20200121_151638.jpg" width="70%"/>
 
 Notes:
 - Elizabeth
 - rotate mouse and keyboard
-- four-minute rotations
+- four-minute rotations: reinforces roles & collaboration
+- if not working, make duration shorter
 - describing roles: facilitator, driver, navigator, mobster
+- navigator decides what's next, ask for input
 - still mess up driver/navigator
 - enabling constraints
 - this stuff is hard, stick with it
@@ -157,15 +141,18 @@ Notes:
 
 ### participants & setup
 
-<div style="display:flex; justify-content:center">
-	<img src="images/front_01_20200121_151657.jpg" width="70%"/>
-</div>
+<img src="images/front_01_20200121_151657.jpg" width="70%"/>
+
 
 Notes:
 - Elizabeth
 - bullying for people who normally show up
-- describe personalities/skill levels
-- Joep, facilitator in our mob
+- Joep/EZ: more exploratory testing
+- Ursula: customer support
+- Kavitha: engineer
+- Sanju: full of ideas, bias to action
+- talkative, collaboration with lots of energy in the room
+- all working on the same thing
 
 ===
 
@@ -174,8 +161,7 @@ Notes:
 
 Notes:
 - Elizabeth
-- anyone can add, adder brings machine
-- mob chooses together which to pick up
+- mob chooses and refines together
 - diversity of stuff we pick up: testing, refactoring, architecture diagram, etc.
 - Selenium, Locust, Pytest, Postman, Python
 
@@ -207,6 +193,7 @@ Notes:
 ### mobbing happened!
 
 - simultaneous ooh-ing <!-- .element: class="fragment" -->
+- expressing intent led to a better action <!-- .element: class="fragment" -->
 - when it's not chaos but a mob <!-- .element: class="fragment" -->
 - "I'll start using this tomorrow!" <!-- .element: class="fragment" -->
 - skeptical but yolo! <!-- .element: class="fragment" -->
@@ -220,10 +207,16 @@ Notes:
 
 ===
 
-## lessons learned
+### learning happened!
+
+- keyboard shortcuts & operating systems
+- product & domain knowledge
+- technical skills
 
 Notes:
 - Joep
+- technical: testing and programming
+- come up with examples
 
 ===
 
@@ -269,16 +262,16 @@ Notes:
 ### habits we built
 
 
-<div style="display:flex; justify-content:space-between; align-items:center">
+<div style="display:flex; justify-content:space-between;">
 <div>
 
-- strong-style communication outside the mob
+- driver-navigator outside the mob
 - reach out to each other for help
 - knowing how to troubleshoot your product
 </div>
 
-<img style="float:right; padding-left:10%" src="images/cheerleaders.jpg" width="40%" />
-<div>
+<img style="float:right; padding-left:5%" src="images/cheerleaders.jpg" width="35%" />
+</div>
 
 Notes:
 - Elizabeth
@@ -318,16 +311,7 @@ Notes:
 - this stuff is hard, stick with it
 - have a facilitator just focused on the process
 - learning _is_ the productivity, part of the job
-
-===
-
-### one piece of advice
-
-don't try this at ~~home~~ work
-
-Notes:
-- Joep
-- warning: pairing with people who haven't learned this becomes highly frustrating
+- try it, see how it goes
 
 ===
 
