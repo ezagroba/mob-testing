@@ -220,19 +220,6 @@ Notes:
 
 ===
 
-<h3 style="color:#23770b">learning >> results</h3>
-
-
-Notes:
-- Joep
-- spending 90 minutes where everyone learns is more valuable than 90 minutes of getting stuff done
-- very few bugs found, very few notes taken
-- very small charter scope
-- different from mobbing all the time
-- first sessions had really poor testing
-
-===
-
 ### retros
 
 <div style="display:flex; align-items:center">
@@ -249,6 +236,19 @@ Notes:
 - warn for rabbit holes
 - intent, what to do, how to do it
 - also a habit: have a charter specific enough to give direction and a sense of accomplishment
+
+===
+
+<h3 style="color:#23770b">learning >> output</h3>
+
+
+Notes:
+- Joep
+- spending 90 minutes where everyone learns is more valuable than 90 minutes of getting stuff done
+- very few bugs found, very few notes taken
+- very small charter scope
+- different from mobbing all the time
+- first sessions had really poor testing
 
 ===
 
